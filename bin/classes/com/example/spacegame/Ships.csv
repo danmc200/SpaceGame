@@ -1,0 +1,48 @@
+{w2_1, new SpaceshipZx1(new AverageJoe(), MOVEMENTS[4])},
+Granny(),MOVEMENTS[4]
+AverageJoe(),MOVEMENTS[4]
+AverageJoe(),MOVEMENTS[4]
+Granny(),MOVEMENTS[4]
+AverageJoe(),MOVEMENTS[4]
+Granny(),MOVEMENTS[4]
+AverageJoe(),MOVEMENTS[4]
+
+{w2_1 = W2_1, new SpaceshipZx1(new Granny(), MOVEMENTS[5])},
+{w2_AverageJoe(),MOVEMENTS[5]
+{w2_AverageJoe(),MOVEMENTS[5]
+AverageJoe(),MOVEMENTS[5]
+AverageJoe(),MOVEMENTS[5]
+AverageJoe(),MOVEMENTS[5]
+Granny(),MOVEMENTS[5]
+AverageJoe(),MOVEMENTS[5]
+
+{w2_4, new SpaceshipZx1(new Granny(), MOVEMENTS[7])},
+AverageJoe(),MOVEMENTS[7]
+AverageJoe(),MOVEMENTS[7]
+Granny(),MOVEMENTS[7]
+AverageJoe(),MOVEMENTS[7]
+Granny(),MOVEMENTS[7]
+Granny(),MOVEMENTS[7]
+AverageJoe(),MOVEMENTS[7]
+Granny(),MOVEMENTS[7]
+
+{w2_4 = W2_4, new SpaceshipZx1(new Granny(), MOVEMENTS[8])},
+Granny(),MOVEMENTS[8]
+AverageJoe(),MOVEMENTS[8]
+Granny(),MOVEMENTS[8]
+Granny(),MOVEMENTS[8]
+AverageJoe(),MOVEMENTS[8]
+AverageJoe(),MOVEMENTS[8]
+Granny(),MOVEMENTS[8]
+AverageJoe(),MOVEMENTS[8]
+
+{w2_2 = W2_2, new SpaceshipZx2(new Granny(), MOVEMENTS[6])},
+Granny(),MOVEMENTS[6]
+AverageJoe(),MOVEMENTS[6]
+AverageJoe(),MOVEMENTS[6]
+AverageJoe(),MOVEMENTS[6]
+AverageJoe(),MOVEMENTS[6]
+AverageJoe(),MOVEMENTS[6]
+Granny(),MOVEMENTS[6]
+AverageJoe(),MOVEMENTS[6]
+AverageJoe(),TOP_MOVEMENTS[0], 1000

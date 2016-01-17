@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="1280"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="sprite_player_ship3.svg"
+   inkscape:export-filename="/home/daniel/Documents/space_game_waves/sprite_player_ship3.png"
+   inkscape:export-xdpi="5"
+   inkscape:export-ydpi="5">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3272"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3268"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3264"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3145"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="343.04668"
+     inkscape:cy="649.71107"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1015"
+     inkscape:window-height="1896"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:object-paths="false"
+     inkscape:snap-to-guides="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,227.63782)">
+    <path
+       sodipodi:type="star"
+       style="fill:#006a72;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="path4691"
+       sodipodi:sides="3"
+       sodipodi:cx="238.57143"
+       sodipodi:cy="-381.42856"
+       sodipodi:r1="195.27583"
+       sodipodi:r2="97.637917"
+       sodipodi:arg1="0.52912763"
+       sodipodi:arg2="1.5763252"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 407.14285,-282.85713 68.920356,-284.72714 239.65107,-576.70141 z"
+       transform="matrix(1,0,0,2.4541478,174.28571,1300.8211)"
+       inkscape:transform-center-x="0.53982347"
+       inkscape:transform-center-y="-118.65984" />
+    <path
+       style="fill:#006a72;fill-opacity:1;stroke:#000000;stroke-width:1.88834989px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 413.63251,723.56093 c 283.2748,0 297.026,-730.3096914 297.026,-730.3096914"
+       id="path3274-4-1-3-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#006a72;fill-opacity:1;stroke:#000000;stroke-width:1.89944291px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 414.94426,723.56113 c -283.27485,0 -297.02604,-738.915561 -297.02604,-738.915561"
+       id="path3274-4-53-3-2"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#d4221a;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:5.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3921"
+       width="85.714287"
+       height="170"
+       x="370"
+       y="222.3622" />
+  </g>
+</svg>
